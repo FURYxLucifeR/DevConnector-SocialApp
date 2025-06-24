@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://user2:user2@my1.dzmg4ys.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "07b535c57c8ba4c1ed27",
+  "githubSecret": "390ff3ddcaa956df31588965f245a5c09edd4154"
+}
